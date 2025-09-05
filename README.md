@@ -5,3 +5,5 @@
 
 # The output is here
 
+- The first program's website is [here](https://cyber-cube.github.io/programs/first.html)
+- The second program's website is [here](https://cyber-cube.github.io/programs/second.html)
